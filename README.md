@@ -6,7 +6,6 @@ currently contains:
 - fastfetch config
 - kitty config
 <br>
-<br>
 requirements:
 <br>
-- IBM VGA 8x16 font
+* IBM VGA 8x16 font
