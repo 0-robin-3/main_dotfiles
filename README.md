@@ -4,8 +4,7 @@ these will be my dotfiles that i use. yall can do whatever with it idc
 currently contains:
 <br>
 - fastfetch config
-<br>
-kitty config
+- kitty config
 <br>
 <br>
 requirements:
