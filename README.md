@@ -5,7 +5,7 @@ currently contains:
 <br>
 - fastfetch config
 <br>
-- kitty config
+kitty config
 <br>
 <br>
 requirements:
