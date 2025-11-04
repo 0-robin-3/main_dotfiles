@@ -8,4 +8,4 @@ currently contains:
 <br>
 requirements:
 <br>
-- IBM VGA 8x16 font
+<li>IBM VGA 8x16 font</li>
