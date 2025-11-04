@@ -3,8 +3,8 @@ these will be my dotfiles that i use. yall can do whatever with it idc
 <br>
 currently contains:
 <br>
-- fastfetch config
-- kitty config
+<li>fastfetch config</li>
+<li>kitty config</li>
 <br>
 requirements:
 <br>
