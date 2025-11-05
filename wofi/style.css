@@ -1,0 +1,55 @@
+window {
+    margin: 0px;
+    background: linear-gradient(180deg, #ffe6f5 0%, #ffbfe0 100%);
+    border: 2px solid #bba0b8;
+    border-radius: 10px;
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.25);
+    font-family: "Tahoma", "Liberation Sans", sans-serif;
+    font-size: 14px;
+    color: #000000;
+}
+
+/* input bar */
+#input {
+margin: 12px;
+border: 2px solid #e5c3d6;
+border-radius: 6px;
+padding: 8px;
+background: linear-gradient(180deg, #fff5fb 0%, #ffdff1 100%);
+color: #000;
+caret-color: #ff66cc;
+font-weight: 500;
+}
+
+/* entries */
+#entry {
+padding: 6px 12px;
+border-radius: 6px;
+margin: 3px 8px;
+transition: all 0.1s ease-in-out;
+}
+
+#entry:selected {
+background: linear-gradient(180deg, #ffd6ec 0%, #ffb5e6 100%);
+border: 1px solid #ff8ad9;
+box-shadow: inset 0px 0px 3px rgba(255, 255, 255, 0.7);
+color: #000;
+}
+
+/* scrollbar */
+#scroll {
+background: none;
+}
+
+/* bezels */
+window:active {
+    border: 2px solid #ff9cd9;
+    box-shadow: inset 1px 1px 0 #fff, inset -1px -1px 0 #b87bb0;
+}
+
+/* glowy */
+#input:focus {
+border: 2px solid #ff8ad9;
+box-shadow: 0 0 6px #ffb0e6;
+}
+

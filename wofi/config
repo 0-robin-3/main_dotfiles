@@ -1,0 +1,13 @@
+show=drun
+prompt=Start >
+width=640
+height=420
+location=center
+hide_scroll=true
+insensitive=true
+allow_markup=true
+lines=10
+columns=1
+key_up=Up
+key_down=Down
+key_submit=Return
