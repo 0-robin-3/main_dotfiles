@@ -5,7 +5,9 @@ currently contains:
 <br>
 <li>fastfetch config</li>
 <li>kitty config</li>
+<li>wofi config</li>
 <br>
 requirements:
 <br>
 <li>IBM VGA 8x16 font</li>
+<li>Tahoma font from Windows XP</li>
