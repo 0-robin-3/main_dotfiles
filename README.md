@@ -12,3 +12,6 @@ requirements:
 <li>IBM VGA 8x16 font</li>
 <li>Tahoma font from Windows XP</li>
 <li>fish</li>
+<li>fastfetch and hyfetch</li>
+<li>kitty</li>
+<li>wofi</li>
